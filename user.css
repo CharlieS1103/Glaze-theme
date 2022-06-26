@@ -97,7 +97,7 @@ span.main-createPlaylistButton-text.standalone-ellipsis-one-line.main-type-mesto
 }
 
 
-.EY6S7vlkxB7SF_OjjF_Y > div > a > div.main-collectionLinkButton-icon > div, .main-createPlaylistButton-createPlaylistIcon {
+.EY6S7vlkxB7SF_OjjF_Y > div > a > div.bFQ9NOIn1bDs8tTH0ebQ > div, .main-createPlaylistButton-createPlaylistIcon {
     width:30px;
     height:30px;
     background: var(--spice-text);
@@ -116,7 +116,7 @@ span.main-createPlaylistButton-text.standalone-ellipsis-one-line.main-type-mesto
 .EY6S7vlkxB7SF_OjjF_Y > div:nth-child(7) {
     padding-left: 20px;
 }
-.EY6S7vlkxB7SF_OjjF_Y > div > a > div.main-collectionLinkButton-icon > div > svg, .EY6S7vlkxB7SF_OjjF_Y > div.GlueDropTarget.GlueDropTarget--albums.GlueDropTarget--tracks.GlueDropTarget--local-tracks.GlueDropTarget--episodes.personal-library > button > div > div > svg,#spicetify-show-list > div.GlueDropTarget.GlueDropTarget--albums.GlueDropTarget--tracks.GlueDropTarget--local-tracks.GlueDropTarget--episodes > button > div > div > svg{
+.EY6S7vlkxB7SF_OjjF_Y > div > a > div.bFQ9NOIn1bDs8tTH0ebQ > div > svg, .EY6S7vlkxB7SF_OjjF_Y > div.GlueDropTarget.GlueDropTarget--albums.GlueDropTarget--tracks.GlueDropTarget--local-tracks.GlueDropTarget--episodes.personal-library > button > div > div > svg,#spicetify-show-list > div.GlueDropTarget.GlueDropTarget--albums.GlueDropTarget--tracks.GlueDropTarget--local-tracks.GlueDropTarget--episodes > button > div > div > svg{
 width:20px !important;
 height:20px !important;
 }
